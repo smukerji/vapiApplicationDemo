@@ -100,7 +100,7 @@ export default function MeeraAssistance() {
       <img src={star2} alt='star' className='star2' width={20} height={20} />
       <div className='header'>
         <div className='logo'>EPT Gym Assistant</div>
-        <button>Talk to Meera</button>
+        {/* <button>Talk to Meera</button> */}
       </div>
       <div className='assistance-content'>
         <div className='assistance-container'>
