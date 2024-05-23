@@ -1,7 +1,6 @@
 
 
 
-import { useState } from 'react';
 import './App.css';
 import './assets/fonts/font.css';
 

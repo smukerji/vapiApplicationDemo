@@ -1,5 +1,4 @@
 
-import assistanceImg from '../../assets/assistance-img.svg';
 import sound from '../../assets/sound.svg';
 import ellipse from '../../assets/Ellipse 5.svg';
 import polygone1 from '../../assets/Polygon 1.svg';
@@ -7,7 +6,7 @@ import polygone2 from '../../assets/Polygon 2.svg';
 import star1 from '../../assets/Star 1.svg';
 import star2 from '../../assets/Star 2.svg';
 import Vapi from '@vapi-ai/web';
-import { useEffect, useRef, useState } from 'react';
+import {  useRef, useState } from 'react';
 import Lottie from "lottie-react";
 
 import siriAnim from '../../lotties/siri-anim.json';
